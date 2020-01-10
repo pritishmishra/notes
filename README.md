@@ -1,4 +1,5 @@
-# Course Name - Learning how to Learn; Coursera
+# Course Name - Learning how to Learn
+## Source - Coursera
 
 * 2 modes of thinking: Focussed and Diffused
 * Analogies provide a powerful method for learning
