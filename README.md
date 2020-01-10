@@ -17,3 +17,12 @@
    * Repeat the same activity and this time it will be more focussed.
    * By the 3rd iteration, you would already have grasped the very internals of the task.
    * Your brain now is more focussed and can provide much better inputs.
+ * Spaced Repetition.
+   * Repeating activities after a period of time, like next day, after 2 days, etc. makes it much more effective.
+   * Repeating the same exercise in a day might not be as effective and long-lasting as repeating the activity the next day.
+ * Sleep - an unknown best-friend
+   * Sleep after a focussed activity helps to enhance the diffused learning and rejuvenates you when you re-attempt the task.
+   * Sleep washes away harmful toxins in the brain to help it work better.
+   * Sleep de-clutters your mind to focus better.
+   * Always pre-fix your sleep with a focussed and tedious session on the activity for best results.
+ 
