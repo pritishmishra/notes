@@ -25,4 +25,8 @@
    * Sleep washes away harmful toxins in the brain to help it work better.
    * Sleep de-clutters your mind to focus better.
    * Always pre-fix your sleep with a focussed and tedious session on the activity for best results.
+ * Interact to strengthen ideas
+   * Discussing your ideas and progress in a task often stimulates much better growth.
+   * Being in a creative environment where you can discuss the ideas with a peer is the best way to stimulate new ideas or strengthen the existing ones.
+   * Bounce ideas off people - a very good strategy.
  
