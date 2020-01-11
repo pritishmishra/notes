@@ -21,12 +21,12 @@
    * Repeating activities after a period of time, like next day, after 2 days, etc. makes it much more effective.
    * Repeating the same exercise in a day might not be as effective and long-lasting as repeating the activity the next day.
  * Sleep - an unknown best-friend
-   * Sleep after a focussed activity helps to enhance the diffused learning and rejuvenates you when you re-attempt the task.
+   * Sleeping after a focussed activity helps to enhance the diffused learning and rejuvenates you when you re-attempt the task.
    * Sleep washes away harmful toxins in the brain to help it work better.
    * Sleep de-clutters your mind to focus better.
    * Always pre-fix your sleep with a focussed and tedious session on the activity for best results.
  * Interact to strengthen ideas
    * Discussing your ideas and progress in a task often stimulates much better growth.
    * Being in a creative environment where you can discuss the ideas with a peer is the best way to stimulate new ideas or strengthen the existing ones.
-   * Bounce ideas off people - a very good strategy.
+   * Bouncing ideas off people - a very good strategy.
  
